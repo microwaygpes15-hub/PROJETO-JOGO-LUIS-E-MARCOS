@@ -1,0 +1,43 @@
+KAYZEN RYUU — PACOTE DO PROJETO (versão 7)
+Criadores: Luis Henrique e Marcos — projeto exclusivo de Luis Henrique e Marcos Thz
+
+COMO JOGAR
+  iPHONE: tocar no arquivo .html NÃO abre o jogo (o iOS só mostra uma prévia). Abra pelo link no Safari
+  e use Compartilhar → Adicionar à Tela de Início para virar um ícone em tela cheia.
+  A história é narrada; o botão NARRAÇÃO (ou tecla N) liga/desliga a voz.
+  Abra Jogo/Kayzen_Ryuu.html no navegador (Chrome, Edge, Firefox ou Safari), no computador ou no celular
+  (no celular, deixe na horizontal). Use som ligado.
+
+CONTROLES (COMPUTADOR)
+  WASD/Setas mover · Mouse mirar · Clique/J atirar · R recarregar · Espaço pular (2x = pulo duplo) · Q Sobrecarga
+  Shift/K Dash (Fase 2+) · F Escudo (Fase 3+) · V Eco Aliado (Fase 4) · G Arma lendária (no fim de cada fase)
+  E Portal (só depois de vencer todos os inimigos) · P/Esc pausa · M som
+  No celular os mesmos comandos aparecem como botões.
+
+ITENS
+  INALADOR (cruz verde): recupera 30 de vida. Há 3 em cada mapa (veja no minimapa), alguns inimigos
+  derrubam um e o chefe solta um quando entra em fúria.
+
+COMO CADA FASE FUNCIONA
+  1. Destrua todos os malwares.
+  2. Aparece o alerta do CHEFE e uma caixa com a ARMA LENDÁRIA perto de você — pegue-a!
+  3. Derrote o chefe (uma seta na borda da tela mostra onde ele está).
+  4. O PORTAL é liberado: abra (E / botão PORTAL), entre nele e escolha a próxima fase.
+  Cada fase é mais difícil, com chefe, arma e habilidade diferentes.
+
+FASES
+  1 Distrito Neon ........ chefe RAINHA DO ENXAME ... arma CANHÃO DE PLASMA ....... habilidade Sobrecarga
+  2 Fundição Rubra ....... chefe FORJA-X ............ arma CHUVA DE METEOROS ...... habilidade Dash do Dragão
+  3 Cripta Glacial ....... chefe VEXX ............... arma ZERO ABSOLUTO .......... habilidade Escudo Crio
+  4 Fenda do Multiverso .. chefe KAYZEN ÔMEGA ....... arma ARSENAL DO MULTIVERSO .. habilidade Eco Aliado
+
+PASTAS
+  Jogo/                       versão final (protegida e minificada) — é esta que você publica/compartilha
+  Codigo_Fonte_PRIVADO/       código para continuar o desenvolvimento — NÃO publique
+  GUIA_PARA_CONTINUAR_COM_IA.md  tudo o que outra IA precisa para continuar o jogo
+  Assets/                     sprites, portal, interface e sons originais
+  Referencias/                imagens de referência do projeto
+  Versoes_Anteriores/         v1, v2 e v3
+
+CRÉDITO
+  Arte do Malware: "Dregfly" por Emcee Flesher (OpenGameArt, CC-BY / OGA-BY 3.0).
